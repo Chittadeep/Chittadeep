@@ -14,7 +14,7 @@
 - 💬 Ask me about anything about programming
 
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/chittadeep-biswas-56a5951a7/"><img src="https://user-images.githubusercontent.com/37974051/122538022-c6b3f200-d043-11eb-9f37-a0ba2f66826d.png" height = 40></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/chittadeep-biswas/"><img src="https://user-images.githubusercontent.com/37974051/122538022-c6b3f200-d043-11eb-9f37-a0ba2f66826d.png" height = 40></a>
 
 
 # Skills
