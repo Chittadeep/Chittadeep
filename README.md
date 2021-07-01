@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my Skills
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chittadeep&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chittadeep&theme=tokyonight)
 
 - 🌱 I’m currently an Engineering Student
 
