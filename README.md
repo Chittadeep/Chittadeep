@@ -2,13 +2,11 @@
 
 - 🔭 I’m currently working on my Skills
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chittadeep&theme=tokyonight)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chittadeep&theme=tokyonight)
 
 - 🌱 I’m currently an Engineering Student
 
 - 👯 I’m looking for Internship
-
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chittadeep&show_icons=true&theme=tokyonight)
 
 - 🤔 I’m looking for help with my projects and mentoring me.
 
