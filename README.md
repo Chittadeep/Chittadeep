@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Skills
 
  # Languages:
-- <img src=https://user-images.githubusercontent.com/37974051/147884736-dc894b01-fcbd-4d19-94dc-125b45632fed.png height = "30" width="40"><img src=https://user-images.githubusercontent.com/37974051/147884827-418270e8-1183-4f17-afcb-923352e5e1b5.png height = "30" width="40"><img src = https://user-images.githubusercontent.com/37974051/147884966-4d597469-374b-41e0-900d-e987f3302582.png height = "30" width="40"><img src = https://user-images.githubusercontent.com/37974051/147885037-3f4029cb-f282-45d7-83d7-195ecc92568a.png height = "30" width="40"><img src = https://user-images.githubusercontent.com/37974051/147885079-8501855c-238d-42a5-9bff-d5f389e1cd3a.png height = "30" width ="40>
+- <img src=https://user-images.githubusercontent.com/37974051/147884736-dc894b01-fcbd-4d19-94dc-125b45632fed.png height = "30" width="40"> <img src=https://user-images.githubusercontent.com/37974051/147884827-418270e8-1183-4f17-afcb-923352e5e1b5.png height = "30" width="40"> <img src = https://user-images.githubusercontent.com/37974051/147884966-4d597469-374b-41e0-900d-e987f3302582.png height = "30" width="40"> <img src = https://user-images.githubusercontent.com/37974051/147885037-3f4029cb-f282-45d7-83d7-195ecc92568a.png height = "30" width="40"> <img src = https://user-images.githubusercontent.com/37974051/147885079-8501855c-238d-42a5-9bff-d5f389e1cd3a.png height = "30" width ="40">
 
 
 
