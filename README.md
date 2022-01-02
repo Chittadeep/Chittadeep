@@ -10,8 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chittadeep&theme=tokyonight)
 
 
-- 🌱 I’m currently an Engineering Student!![php](https://user-images.githubusercontent.com/37974051/147885079-8501855c-238d-42a5-9bff-d5f389e1cd3a.png)
-
+- 🌱 I’m currently an Engineering Student!
 
 - 👯 I’m looking for Internship
 
