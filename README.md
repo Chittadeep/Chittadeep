@@ -28,8 +28,6 @@
 
 - 🤔 I’m looking for help with my projects and mentoring me.
 
-![tailwindcss](https://user-images.githubusercontent.com/37974051/150397662-c5694322-7b42-409d-9ad2-466589bb7bc0.png)
-
 - 💬 Ask me about anything about programming
 
 
