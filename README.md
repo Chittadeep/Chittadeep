@@ -11,9 +11,6 @@
 ## BackEnd/Server:
 <img src=https://user-images.githubusercontent.com/37974051/148175484-e5f42bd0-ab0f-4911-9ae9-fafd7c224fec.png height = "40" width="60"> <img src=https://user-images.githubusercontent.com/37974051/148175515-016d5e04-ad7b-4120-b494-9befe28f09c5.png height = "40" width="60"> <img src=https://user-images.githubusercontent.com/37974051/148175502-958e3930-83de-4f7b-8689-b15777ea2457.png height = "40" width="60"> <img src=https://user-images.githubusercontent.com/37974051/148175606-3693adff-0884-42ec-88bc-9b45b25df8c9.png height = "40" width="60"> <img src=https://user-images.githubusercontent.com/37974051/150396864-10bdde7e-5140-450d-9886-10da55a8dff0.png height = "40" width="60"> <img src=https://user-images.githubusercontent.com/37974051/150396875-386db74c-02a7-41e7-be82-8aed60cc3e2a.png height = "40" width="60">
 
-## Microservices:
-<img src=https://user-images.githubusercontent.com/37974051/150396875-386db74c-02a7-41e7-be82-8aed60cc3e2a.png height = "40" width="60">
-
 ## Database:
  <img src=https://user-images.githubusercontent.com/37974051/148176288-db9747c5-d71d-46fc-8c7d-4f9236d58632.png height = "40" width="80"> <img src=https://user-images.githubusercontent.com/37974051/148176321-fd098107-4be2-4369-8136-c9d45166cb9e.png height = "40" width="80">
 
